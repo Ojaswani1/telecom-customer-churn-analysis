@@ -8,7 +8,7 @@ The objective was to identify high-risk customer segments, quantify revenue impa
 An interactive 2-page Tableau dashboard was developed to dynamically explore churn drivers and financial risk.
 
 🔗 **Interactive Dashboard:**  
-[View on Tableau Public](https://public.tableau.com/views/Book1_17712318146940/Deepdive?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+[View on Tableau Public](https://public.tableau.com/views/CustomerChurnRevenueRiskAnalysis/Overview?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
 
 ---
 
